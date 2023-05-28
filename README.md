@@ -38,8 +38,23 @@
 <div align='center'>
   <b>Back-end Python Developer</b>
   <a target="_blank">
-    <img src="waving.png" width="16" target="_blank">
+    <img src="waving.png" width="24" target="_blank">
   </a>
 </div><br>
 
 Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente no <b>1º ano</b> e tenho 15 anos. Na área de programação meu foco está sendo em <b>Python</b> e atualmente trabalho com <b>automação</b> em python.
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <b>Apple Love <3</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="me-emoji.png" width="248px" height="300px">
+      </td>
+    </tr>
+  </table>
+</div>
