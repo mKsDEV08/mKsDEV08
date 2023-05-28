@@ -16,6 +16,7 @@
   <a href="https://www.instagram.com/sk.marcao/" target="_blank">
     <img src="instagram-badge.png" width="120" target="_blank">
   </a>
+  <br>
   <a href="https://twitter.com/mKs_marcao" target="_blank">
     <img src="twitter-badge.png" width="120" target="_blank">
   </a>
@@ -24,4 +25,7 @@
   </a>
   <a href="https://steamcommunity.com/profiles/76561198983224433/" target="_blank">
     <img src="steam-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://open.spotify.com/user/31ivoscfl6xnpqd24ybzzq6letdu" target="_blank">
+    <img src="spotify-badge.png" width="120" target="_blank">
   </a>
