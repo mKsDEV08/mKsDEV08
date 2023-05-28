@@ -16,6 +16,12 @@
   <a href="https://www.instagram.com/sk.marcao/" target="_blank">
     <img src="instagram-badge.png" width="120" target="_blank">
   </a>
+  <a href="https://twitter.com/mKs_marcao" target="_blank">
+    <img src="twitter-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/@mksfuture" target="_blank">
+    <img src="youtube-badge.png" width="120" target="_blank">
+  </a>
   <a href="https://steamcommunity.com/profiles/76561198983224433/" target="_blank">
     <img src="steam-badge.png" width="120" target="_blank">
   </a>
