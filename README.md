@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mKsDEV08">
-    <img src="welcome.gif" width="500">
+    <img src="welcome.gif" width="720">
   </a>
 </div>
 <br>
