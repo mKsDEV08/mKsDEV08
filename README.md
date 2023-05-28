@@ -58,3 +58,23 @@ Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente n
     </tr>
   </table>
 </div>
+
+## ⌨️ Hard Skills
+
+<div align="center">
+  <a href="https://pyhon.org" target="_blank">
+    <img src="python-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="html-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="css-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank">
+    <img src="java-badge.png" width="120" target="_blank">
+  </a>
+</div>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mKsDEV08)](https://github.com/anuraghazra/github-readme-stats)
