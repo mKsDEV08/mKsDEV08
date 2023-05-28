@@ -29,3 +29,15 @@
   <a href="https://open.spotify.com/user/31ivoscfl6xnpqd24ybzzq6letdu" target="_blank">
     <img src="spotify-badge.png" width="120" target="_blank">
   </a>
+</div>
+
+## 📄 About Me
+<div align='center'>
+  <b>"Felicidade é poder estar com quem você gosta em algum lugar..." - Chorão</b>
+</div><br>
+<div align='center'>
+  <b>Back-end Python Developer</b>
+  <a target="_blank">
+    <img src="waving.png" width="16" target="_blank">
+  </a>
+</div><br>
