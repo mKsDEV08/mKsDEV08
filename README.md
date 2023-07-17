@@ -72,6 +72,9 @@ Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente n
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img src="java-badge.png" width="120" target="_blank">
   </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="firebase-badge.png" width="120" target="_blank">
+  </a>
   <br>
 </div>
 <br>
