@@ -78,7 +78,3 @@ Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente n
   <br>
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mksDEV08"  style="max-width: 100%;"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mKsDEV08"  style="max-width: 100%;">
-</div>
