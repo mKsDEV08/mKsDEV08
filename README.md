@@ -69,6 +69,9 @@ Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente n
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/css-badge.png" width="120" target="_blank">
   </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/javascript-badge.png" width="120" target="_blank">
+  </a>
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/java-badge.png" width="120" target="_blank">
   </a>
