@@ -63,6 +63,13 @@ Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente n
   <a href="https://pyhon.org" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/python-badge.png" width="120" target="_blank">
   </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/java-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/flask-badge.png" width="120" target="_blank">
+  </a>
+  <br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/html-badge.png" width="120" target="_blank">
   </a>
@@ -72,12 +79,25 @@ Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente n
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/javascript-badge.png" width="120" target="_blank">
   </a>
-  <a href="https://www.java.com/pt-BR/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/java-badge.png" width="120" target="_blank">
+  <br>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/mysql-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/postgresql-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/sqlite-badge.png" width="120" target="_blank">
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/firebase-badge.png" width="120" target="_blank">
   </a>
   <br>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/docker-badge.png" width="120" target="_blank">
+  </a>
+  <a href="https://www.nginx.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/nginx-badge.png" width="120" target="_blank">
+  </a>
 </div>
 <br>
