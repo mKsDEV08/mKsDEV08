@@ -40,7 +40,7 @@
   </a>
 </div><br>
 
-Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente no <b>2º ano</b> e tenho 15 anos. Na área de programação meu foco está sendo em <b>Python</b> e atualmente trabalho com <b>automação</b> em python.
+Prazer, meu nome é <strong>Pedro</strong>
 
 <div align="center">
   <table>
