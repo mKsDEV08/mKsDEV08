@@ -46,6 +46,11 @@ Estou Cursando o <b>Ensino Médio</b> em Limeira, São Paulo. estou atualmente n
   <table>
     <tr>
       <td>
+        <b>Imagem para complementar =D</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/me-emoji.png" width="248px" height="300px">
       </td>
     </tr>
