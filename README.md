@@ -34,7 +34,7 @@
   <b>"Felicidade é poder estar com quem você gosta em algum lugar..." - Chorão</b>
 </div><br>
 <div align='center'>
-  <b>Back-end Python Developer</b>
+  <b>Back-end Developer</b>
   <a target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/waving.png" width="24" target="_blank">
   </a>
