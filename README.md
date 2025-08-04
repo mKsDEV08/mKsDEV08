@@ -33,14 +33,12 @@
 <div align='center'>
   <b>"Felicidade é poder estar com quem você gosta em algum lugar..." - Chorão</b>
 </div><br>
-<div align='center'>
-  <b>Back-end Developer</b>
-  <a target="_blank">
-    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/waving.png" width="24" target="_blank">
-  </a>
+<div align='center' style="display: flex; align-items: center; justify-content: center;">
+    <b>Back-end Developer</b>
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/waving.png" width="20" style="margin-left: 8px; vertical-align: middle;">
 </div><br>
 
-Prazer, meu nome é <strong>Pedro</strong>
+Prazer, meu nome é <strong>Pedro Marcos</strong>, tenho <strong>17 anos</strong>, sou de <strong>Limeira - SP</strong> e atualmente estou no último ano do Ensino Médio. Me interesso sobre técnologia e programação desde meus 12 anos mas focalizei os meus estudos à essa área há 3 anos atrás. Tenho projetos em múltiplas linguagens pois procuro demonstrar versatilidade no meu cúrriculo, mas tenho mais familiaridade com Kotlin e Python.
 
 <div align="center">
   <table>
@@ -60,6 +58,9 @@ Prazer, meu nome é <strong>Pedro</strong>
 ## ⌨️ Hard Skills
 
 <div align="center">
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/kotlin-badge.png" width="120" target="_blank">
+  </a>
   <a href="https://pyhon.org" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/python-badge.png" width="120" target="_blank">
   </a>
@@ -86,8 +87,8 @@ Prazer, meu nome é <strong>Pedro</strong>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/postgresql-badge.png" width="120" target="_blank">
   </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/sqlite-badge.png" width="120" target="_blank">
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/redis-badge.png" width="120" target="_blank">
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/firebase-badge.png" width="120" target="_blank">
