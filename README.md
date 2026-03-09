@@ -5,8 +5,8 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://mksdev08.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/portfolio-badge.png" width="120" target="_blank">
+  <a href="https://github.com/mKsDEV08/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/github-badge.png" width="120" target="_blank">
   </a>
   <a href="https://www.instagram.com/sk.marcao/" target="_blank">
     <img src="https://raw.githubusercontent.com/mKsDEV08/mKsDEV08/master/instagram-badge.png" width="120" target="_blank">
